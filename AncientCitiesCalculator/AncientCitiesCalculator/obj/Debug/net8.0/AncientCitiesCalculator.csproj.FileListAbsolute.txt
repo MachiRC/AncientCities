@@ -1,0 +1,14 @@
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.AssemblyInfoInputs.cache
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.AssemblyInfo.cs
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.csproj.CoreCompileInputs.cache
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Debug/net8.0/AncientCitiesCalculator
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Debug/net8.0/AncientCitiesCalculator.deps.json
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Debug/net8.0/AncientCitiesCalculator.runtimeconfig.json
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Debug/net8.0/AncientCitiesCalculator.dll
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Debug/net8.0/AncientCitiesCalculator.pdb
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.dll
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/refint/AncientCitiesCalculator.dll
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.pdb
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/AncientCitiesCalculator.genruntimeconfig.cache
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/obj/Debug/net8.0/ref/AncientCitiesCalculator.dll
