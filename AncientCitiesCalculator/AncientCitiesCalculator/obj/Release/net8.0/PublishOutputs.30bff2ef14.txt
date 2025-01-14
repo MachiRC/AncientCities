@@ -1,0 +1,5 @@
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Release/net8.0/publish/AncientCitiesCalculator
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Release/net8.0/publish/AncientCitiesCalculator.dll
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Release/net8.0/publish/AncientCitiesCalculator.deps.json
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Release/net8.0/publish/AncientCitiesCalculator.runtimeconfig.json
+/Users/mrcollazowood/AncientCitiesCalculator/AncientCitiesCalculator/bin/Release/net8.0/publish/AncientCitiesCalculator.pdb
